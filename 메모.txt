@@ -1,6 +1,0 @@
-git push origin master
-adsf
-fsda
-sfd
-sdaf
-fsdafsda

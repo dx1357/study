@@ -1,0 +1,44 @@
+package 배열;
+
+public class 배열 {
+
+	public static void main(String[] args) {
+		
+			/*
+	        //String[] 배열 = { "최진혁", "최유빈", "한이람", "이고잉" };
+			String[] 배열 = new String[4];
+			
+			
+			배열[0] = "최진혁";
+	        System.out.println(배열.length);
+	        배열[1] = "최유빈";
+	        System.out.println(배열.length);
+	        배열[2] = "한이람";
+	        System.out.println(배열.length);
+	        배열[3] = "이고잉";
+	        System.out.println(배열.length);
+	        */
+		
+		
+		
+		
+		String[] members = { "최진혁", "최유빈", "한이람" };
+		/*
+        for (int i = 0; i < members.length; i++) {
+            String member = members[i];
+            System.out.println(member + "이 상담을 받았습니다");
+	           
+        }
+	*/
+		/*
+		for (String e : members) {
+            System.out.println(e + "이 상담을 받았습니다");
+        }
+		*/
+		
+		
+	        
+
+}
+
+}
